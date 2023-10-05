@@ -1,0 +1,70 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "operators",
+      "request": "launch",
+      "mainClass": "activities.classromFive.operators",
+      "projectName": "my-first-project-java_29775a75"
+    },
+    {
+      "type": "java",
+      "name": "variablesTypes",
+      "request": "launch",
+      "mainClass": "activities.classromFour.variablesTypes",
+      "projectName": "my-first-project-java_29775a75"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "activities.classromSeven.AboutMe",
+      "projectName": "my-first-project-java_29775a75"
+    },
+    {
+      "type": "java",
+      "name": "MyClass",
+      "request": "launch",
+      "mainClass": "activities.classromSeven.MyClass",
+      "projectName": "my-first-project-java_29775a75"
+    },
+    {
+      "type": "java",
+      "name": "User",
+      "request": "launch",
+      "mainClass": "activities.classromSix.User",
+      "projectName": "my-first-project-java_29775a75"
+    },
+    {
+      "type": "java",
+      "name": "ClassInJava",
+      "request": "launch",
+      "mainClass": "activities.classroomOne.ClassInJava",
+      "projectName": "my-first-project-java_29775a75"
+    },
+    {
+      "type": "java",
+      "name": "IdentationJava",
+      "request": "launch",
+      "mainClass": "activities.classroomThree.IdentationJava",
+      "projectName": "my-first-project-java_29775a75"
+    },
+    {
+      "type": "java",
+      "name": "VariablesJava",
+      "request": "launch",
+      "mainClass": "activities.classroomTwo.VariablesJava",
+      "projectName": "my-first-project-java_29775a75"
+    }
+  ]
+}
