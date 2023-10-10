@@ -1,4 +1,4 @@
-package activities.classromSeven;
+package activities.stageOne.classromSeven;
 
 import java.util.Locale;
 import java.util.Scanner;

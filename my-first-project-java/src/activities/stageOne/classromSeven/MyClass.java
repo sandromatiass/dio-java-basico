@@ -1,4 +1,4 @@
-package activities.classromSeven;
+package activities.stageOne.classromSeven;
 
 public class MyClass {
   public static void main(String[] args){

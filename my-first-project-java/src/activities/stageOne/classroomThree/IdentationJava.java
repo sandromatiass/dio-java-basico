@@ -1,4 +1,4 @@
-package activities.classroomThree;
+package activities.stageOne.classroomThree;
 
 public class IdentationJava {
 

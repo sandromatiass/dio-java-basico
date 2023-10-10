@@ -1,4 +1,4 @@
-package activities.classromFour;
+package activities.stageOne.classromFour;
 //int, byte, short, long, float, double, boolean e char.
 public class variablesTypes {
   public static void main(String[] args) throws Exception {

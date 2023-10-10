@@ -1,4 +1,4 @@
-package activities.classromSix;
+package activities.stageOne.classromSix;
 
 public class SmartTv {
   boolean on= false;

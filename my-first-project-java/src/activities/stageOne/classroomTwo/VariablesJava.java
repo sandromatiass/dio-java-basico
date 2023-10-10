@@ -1,4 +1,4 @@
-package activities.classroomTwo;
+package activities.stageOne.classroomTwo;
 public class VariablesJava {
  public static void main (String [] args){
 	System.out.print("Hello world!");

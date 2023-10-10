@@ -1,4 +1,4 @@
-package activities.classromSix;
+package activities.stageOne.classromSix;
 
 public class User {
   public static void main(String[] args) throws Exception {

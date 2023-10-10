@@ -1,4 +1,4 @@
-package activities.classromFive;
+package activities.stageOne.classromFive;
 
 public class operators {
   
